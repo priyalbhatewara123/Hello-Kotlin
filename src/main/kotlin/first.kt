@@ -40,4 +40,13 @@ fun main(){
     println(f + "Bhatewara")
     //OR with $ sign
     println("This is ${f?.capitalize()} Bhatewara with name length as ${f?.length}")
+
+    /*
+
+    var language
+    language = "French"
+
+    Above code will give error because type declaration becomes mandatory
+    if you’re not initializing the variable at the time of declaration.
+     */
 }
