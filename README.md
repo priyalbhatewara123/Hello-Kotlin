@@ -29,5 +29,5 @@ This repository contains basics of Kotlin required for Android development.
 13. Higher order functions
 14. Passing function as a parameter
 15. Scope Functions
-16/17. Extension Functions
-18. Data Class
+16. Extension Functions
+17. Data Class
