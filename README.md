@@ -4,13 +4,13 @@ This repository contains basics of Kotlin required for Android development.
 📌 Topics Covered:
 
 1. Kotlin Fundamentals
-  * Hello World
-  * Variables in Kotlin
-  * Var and val
-  * Type Inference
-  * Lateinit
-  * Null Safety
-  * String concatination using $
+   * Hello World
+   * Variables in Kotlin
+   * Var and val
+   * Type Inference
+   * Lateinit
+   * Null Safety
+   * String concatination using $
  
 2. Arrays 
 3. Lists
@@ -20,8 +20,8 @@ This repository contains basics of Kotlin required for Android development.
 7. Functions
 8. Classes
 9. Constructors
-  * Primary Constructor
-  * Secondary
+   * Primary Constructor
+   * Secondary
   
 10. Object without class
 11. Companion object
