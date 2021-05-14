@@ -31,3 +31,8 @@ This repository contains basics of Kotlin required for Android development.
 15. Scope Functions
 16. Extension Functions
 17. Data Class
+18. Concurrency in Android
+    * Multi-threading
+    * ConcurrentModificationException
+    * Iterators
+  
